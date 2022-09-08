@@ -41,6 +41,12 @@
       "description": "Treadmill Parts For Free",
       "image": "./images/treadmill.jpg",
       "location": "East Flatbush"
+    },
+    {
+      "description": "shoes",
+      "image": "https://images.vans.com/is/image/Vans/VN000D3HY28-HERO?hei=1024&wid=1024&qlt=95",
+      "location": "Cresson",
+      "id": 8
     }
   ]
 }

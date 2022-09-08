@@ -23,6 +23,51 @@ header h1 {
   font-family: serif;
 }
 
+.form-box {
+  border-bottom: 1px #ccc solid;
+  background: #eee;
+  padding: 1rem;
+  min-height: 80px;
+  justify-content: center;
+}
+
+.form-box form {
+  margin: 0 0 3vh 0;
+}
+
+.form-box label {
+  display: block;
+  font-size: 20px;
+  margin: 0 0 1vh 0;
+}
+
+.form-box input {
+  display: block;
+  font-size: 15px;
+  margin: 0 0 5px 0;
+  width: 40%;
+  font-size: 1rem;
+  height: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding-left: 0.5rem;
+}
+
+.form-box button {
+  font-size: 1rem;
+  height: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 5px;
+}
+
+.form-box select {
+  font-size: 1rem;
+  height: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
 .logo {
   margin-right: 0.5rem;
   color: transparent;
